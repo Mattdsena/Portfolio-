@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my portfolio website that includes contact information and an up to date resume, LinkedIn and Github profile.
+This is my portfolio website that includes contact information, LinkedIn and Github profile.
 
 I will constantly be updating this with my most recent work as it is completed.
 
