@@ -10,6 +10,10 @@ I will constantly be updating this with my most recent work as it is completed.
 
 This portfolio has been put together using a combination of HTML, Bootstrap and custom CSS.
 
+Below you will see a screenshot of my Portfolio
+
+![Screenshot](Portfolio.jpg)
+
 ## Technologies
 
 A list of tecnologies used in this portfolio:
