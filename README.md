@@ -26,7 +26,7 @@ A list of tecnologies used in this portfolio:
 
 ## Links
 
-A link is supplied to the [deployed project.](https://mattdsena.github.io/Portfolio-/)
+A link is supplied to the [deployed project.](https://mattdsena.github.io/Portfolio/)
 
 I can be contacted at the following email address - matthewdsena@gmail.com
 
